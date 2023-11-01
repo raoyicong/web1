@@ -17,17 +17,17 @@ repository: raoyicong.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: true
+        enabled: false
 # 可选组件配置
 components:
     # 分享
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
-        enabled: true
+        enabled: false
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: true
+        enabled: false
         start_date: 2023-11-1
     # My Popular Repositories
     side_bar_repo:
@@ -46,7 +46,7 @@ components:
         view: cate
     # 图片灯箱效果功能
     fancybox:
-        enabled: true
+        enabled: false
 # 压缩页面内容
 compress_html:
   clippings: all
