@@ -5,8 +5,8 @@ baseurl:
 url: https://cccbbb.top/
 date_format: "ordinal"
 title: 小聪的博客
-subtitle: "公众号：（目前还没有）"
-description: "小聪的博客，公众号：（还没有）"
+subtitle: "cong"
+description: "小聪的博客"
 keywords: cong, xiaocong, cc, blog,web 
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -57,10 +57,10 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: xiaocong
+author: cong
 organization: 
 organization_url: 
-github_username: raoyicong
+github_username: 聪
 location: guangzhou, China
 email: ryc939427129@gmail.com
 
